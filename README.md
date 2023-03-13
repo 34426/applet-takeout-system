@@ -2,7 +2,7 @@
 
 有问题，或者不会调试运行的同学, 可以添加微信：xzxj0206
 
-![img_2.png](img_2.png)
+![img_2.png](imgs/img_2.png)
 
 ## 运行界面
 
