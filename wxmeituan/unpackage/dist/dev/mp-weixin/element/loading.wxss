@@ -1,0 +1,17 @@
+
+.loading.data-v-8943e8ea{position: fixed;
+left: 0;
+right: 0;
+bottom: 0;
+top: 0;
+background: #FFFFFF;
+z-index: 9999;}
+.loading view.data-v-8943e8ea{
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%; height: 100%;
+}
+.loading image.data-v-8943e8ea{width: 50px; height: 60px; display: block;}
+.loading text.data-v-8943e8ea{font-size: 25rpx;}
+

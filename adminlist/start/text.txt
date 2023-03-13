@@ -1,0 +1,2 @@
+在项目根目录下执行npm install --save
+成功之后，再执行npm run dev启动后台管理

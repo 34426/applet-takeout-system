@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 筛选区 */
+.delica-view image.data-v-62fc7505{width: 30rpx; height: 30rpx; display: block;
+}
+.delica-view.data-v-62fc7505{font-size: 30rpx; display: flex; align-items: center;
+color: #666666;
+height: 70rpx;
+padding: 0 15rpx;
+background: #FFFFFF;
+}
+.delica-list.data-v-62fc7505{display: flex; align-items: center;}
+.delica-right.data-v-62fc7505{justify-content: flex-end; flex-grow: 5;}
+.delica-grow.data-v-62fc7505{flex-grow: 1;}
+.prefer-posi.data-v-62fc7505{position: absolute; left: 0; right: 0;
+	width: 100%;
+	z-index: 99;}
+/* 排序 */
+.sortlist.data-v-62fc7505{background: #ffffff;}
+.sortliteltle text.data-v-62fc7505{
+padding: 0 15rpx;
+display: block;
+font-size: 30rpx;
+height: 70rpx;
+line-height: 70rpx;
+border-top: 1rpx solid #ededed;}
+.activeb.data-v-62fc7505 {
+		color: #f89903 !important;
+}
+/* 选择 */
+/*相对定位*/
+.sortlist-view.data-v-62fc7505{height: 700rpx; overflow: hidden;
+overflow-y: scroll;
+position: relative;
+}
+.sortlist-title.data-v-62fc7505{padding: 0 15rpx;
+font-size: 30rpx;
+height: 60rpx;
+line-height: 60rpx;}
+.Choice.data-v-62fc7505{font-size: 28rpx; background: #f8f8f8;
+height: 55rpx;
+line-height: 55rpx;
+color: #666666;
+width: calc((100% / 3) - 15px) !important;
+margin: 7.5px;
+text-align: center;
+display: block;
+border-radius: 5rpx;
+}
+.sortlist-flex.data-v-62fc7505{
+	display: flex; flex-wrap: wrap;
+	align-items: center;
+	margin-bottom: 30rpx;
+}
+.sortlist-bottom.data-v-62fc7505{background: #ffffff; height: 80rpx;
+border-top: 1rpx solid #e4e4e4;
+display: flex; justify-content: space-around;
+align-items: center;
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;}
+.sortlist-bottom text.data-v-62fc7505{flex-grow: 1; height: 80rpx;
+line-height: 80rpx;
+text-align: center;}
+.sortlist-bottom text.data-v-62fc7505:nth-child(1){border-right: 1rpx solid #e4e4e4;}
+.sortlist-bottom text.data-v-62fc7505:nth-child(2){background: #ffd348;}
+.yin.data-v-62fc7505{background: rgba(0,0,0,0.5); position: fixed; top: 0; left: 0; right: 0; bottom: 0;}
+/* 商家特色加样式 */
+.scractive.data-v-62fc7505{background: #fef6df !important; color: #f29909 !important;}
+

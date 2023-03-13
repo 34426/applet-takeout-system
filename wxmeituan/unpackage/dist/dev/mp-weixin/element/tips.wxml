@@ -1,0 +1,1 @@
+<block wx:if="{{modaishow}}"><view class="order-no data-v-7706e779"><image src="../static/coen/meoyopu.png" mode="widthFix" class="data-v-7706e779"></image><text class="data-v-7706e779">{{tips}}</text></view></block>
